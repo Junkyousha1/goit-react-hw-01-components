@@ -1,0 +1,21 @@
+table{
+    margin: 20px;
+    border: dashed 1px rgba(0, 152, 179, 0.74);
+}
+th {
+  background-color: rgba(0, 152, 179, 0.74);
+  color: #fff;
+  padding: 15px;
+  text-transform: uppercase;
+  width: 30vw;
+}
+
+tbody {
+  text-align: center;
+  text-transform: capitalize;
+  opacity: 50%;
+}
+
+td {
+    padding: 15px;
+}
