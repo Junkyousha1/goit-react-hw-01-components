@@ -1,0 +1,31 @@
+.statistics {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin: 20px;
+}
+
+.title{
+  opacity: 50%;
+}
+
+.statlist {
+  display: flex;
+  flex-direction: row;
+  color: #fff;
+  font-weight: 600;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  padding: 15px;
+  width: 130px;
+  height: 130px;
+}
+
+ul{
+  list-style-type: none;
+}
